@@ -1,4 +1,4 @@
-**#Eski Google Wev Sitesi**
+**#Eski Google Web Sitesi**
 
 ![EskiGoogle](images/eski%20gog.png)
 
